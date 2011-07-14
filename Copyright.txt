@@ -6,9 +6,11 @@
  * Features of this fork:
  *	# Garbage Collection enabled
  *	# Improved codebase, no retain code
- *	# Mac OS X 10.6+ base SDK
- *	# Intel 32 / 64-bit leightweight variant
- *  # Clang / LLVM compiled binary
+ *	# Mac OS X 10.7 base SDK
+ *	# Intel x86_64 leightweight variant
+ *	# Clang / LLVM compiled binary
+ *	# Meets Mac App Store requirements
+ *
  *
  * Originally developed by the following:
  *
