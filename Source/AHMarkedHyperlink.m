@@ -101,8 +101,8 @@
 - (void)setURLFromString:(NSString *)inString
 {
 	NSString	*linkString;
-	linkString = (NSString *)CFURLCreateStringByAddingPercentEscapes(kCFAllocatorDefault,
-	                                        (CFStringRef)inString,
+	linkString = (__bridge NSString *)CFURLCreateStringByAddingPercentEscapes(kCFAllocatorDefault,
+	                                        (__bridge CFStringRef)inString,
 	                                        (CFStringRef)@"#%[]",
 	                                        NULL,
 	                                        kCFStringEncodingUTF8); // kCFStringEncodingISOLatin1 );
