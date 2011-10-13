@@ -4,12 +4,11 @@
  * http://www.byteproject.net
  * 
  * Features of this fork:
- *	# Garbage Collection enabled
- *	# Improved codebase, no retain code
- *	# Mac OS X 10.7 base SDK
- *	# Intel x86_64 leightweight variant
- *	# Clang / LLVM compiled binary
- *	# Meets Mac App Store requirements
+ *	# Automatic Reference Counting (ARC)
+ *	# Latest flex / libfl.a versions bundled
+ *	# Built for Mac OS X Lion (10.7 base SDK)
+ *	# Intel 64-bit variant
+ *	# Mac App Store conform
  *
  *
  * Originally developed by the following:
