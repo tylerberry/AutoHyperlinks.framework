@@ -6,7 +6,7 @@ h2. Features of this fork
 
  * Automatic Reference Counting (ARC)
  * Latest flex / libfl.a versions bundled
- * Built for Mac OS X Lion (10.7 base SDK)
+ * Built for Mac OS X Lion+ (10.7 base SDK)
  * Intel 64-bit variant
  * Mac App Store conform
 
@@ -17,7 +17,7 @@ Please refer to the "AutoHyperlinks documentation":http://trac.adium.im/wiki/Aut
 h2. Credits
 
 AutoHyperlinks Framework
-Copyright (c) 2011, forked by Stefan Vogt.
+Copyright (c) 2011-2012 Stefan Vogt.
 "http://byteproject.net":http://byteproject.net
 
 Originally developed by the following:

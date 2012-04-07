@@ -1,6 +1,6 @@
 /*
  * AutoHyperlinks framework
- * Copyright (C) 2004-2012, forked by Stefan Vogt.
+ * Copyright (C) 2011-2012 Stefan Vogt.
  * http://www.byteproject.net
  * 
  * Features of this fork:
